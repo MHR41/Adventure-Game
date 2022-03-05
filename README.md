@@ -1,5 +1,5 @@
-# InventoryGame
-Inventory Game is a console game. It's the best project ever for anyone who wants to realize and utilize the concepts of OOP programming in Java Language. 
+# Adventure Game
+Adventure Game is a console game. It's the best project ever for anyone who wants to realize and utilize the concepts of OOP programming in Java Language. 
 There are 3 game characters in the game, which every one of them has it's own special characteristic and the player can select one of them and start to play.
 There are 4 different locations in the game. The player's tasks is in three of them. Just one location is not neccessary to go there and that location name is Mine Location.
 The aim of Mine locatoin is just for getting random prize like money or weapon or armor or nothing, beacause the prize is not clear and will be determied randomly.
